@@ -1,176 +1,135 @@
 <div align="center">
-
-```txt
-AKSHAT BHATIA
-FULL STACK & AI ENGINEER
-```
-
-<a href="https://www.linkedin.com/in/akshat-bhatia-">LinkedIn</a>
-&nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="https://github.com/Akshat-bhatia73">GitHub</a>
-&nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="mailto:akuaka46@gmail.com">Email</a>
-&nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3OwJq6ayGU7LfpBvYUZh2sB9t9CbqYOC1BTmnt59XClhVkRt4hpNj887bzDC472QyiH-dHw4Ah">Book a Call</a>
-
+  <h1>Akshat Bhatia</h1>
+  <p>Full Stack & AI Engineer · Compliance Platforms · Agentic Systems · Data Pipelines · Faridabad</p>
+  <p>
+    <a href="https://www.linkedin.com/in/akshat-bhatia-">
+      <img src="https://img.shields.io/badge/LinkedIn-050505.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Akshat-bhatia73">
+      <img src="https://img.shields.io/badge/GitHub-050505.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:akuaka46@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D71921.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3OwJq6ayGU7LfpBvYUZh2sB9t9CbqYOC1BTmnt59XClhVkRt4hpNj887bzDC472QyiH-dHw4Ah">
+      <img src="https://img.shields.io/badge/Book%20a%20Call-D71921.svg?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call" />
+    </a>
+  </p>
 </div>
 
-<br />
+---
 
-```txt
-PORTFOLIO / FARIDABAD, HR, INDIA
+## About
 
-I build compliance platforms, agentic systems, and data pipelines
-that ship fast and scale cleanly.
-```
+I build compliance platforms, agentic systems, and data pipelines that ship fast and scale cleanly.
 
-<table>
-  <tr>
-    <td width="25%">
-      <strong>30x</strong><br />
-      <sub>Faster dashboard delivery</sub>
-    </td>
-    <td width="25%">
-      <strong>90%+</strong><br />
-      <sub>Data extraction accuracy</sub>
-    </td>
-    <td width="25%">
-      <strong>$4.2M</strong><br />
-      <sub>Funding round supported</sub>
-    </td>
-    <td width="25%">
-      <strong>10 days</strong><br />
-      <sub>Compliance platform MVP</sub>
-    </td>
-  </tr>
-</table>
+Currently at **OnFinance AI** as a **Full Stack Engineer**, building role-based dashboards, regulatory workflows, analytics APIs, and AI agent systems for compliance teams.
 
-<br />
+- Built the frontend from scratch with **Next.js**, **TypeScript**, and **Tailwind CSS**
+- Optimized analytics APIs on **300k+ MongoDB records**, cutting dashboard response times from **4.5-6 min to 15-30 sec**
+- Migrated AI agent architecture to a **Deep Agents** framework with skill-based routing
+- Partnered with the executive team to support a **$4.2M pre-Series A round from PeakXV Partners**
 
-## Current Work
+---
 
-```ts
-const akshat = {
-  role: "Full Stack & AI Engineer",
-  current: "OnFinance AI",
-  focus: [
-    "Compliance platforms",
-    "Agentic systems",
-    "Data pipelines",
-    "Reviewer dashboards",
-    "RAG pipelines",
-    "Vector search",
-  ],
-};
-```
+## Impact
 
-<br />
+| Metric | Focus |
+| --- | --- |
+| **30x** | Faster dashboard delivery, from 4.5-6 min to 15-30 sec on 300k+ records |
+| **90%+** | Data extraction accuracy, up from ~20% with ML-assisted validation |
+| **$4.2M** | Pre-Series A funding round supported from PeakXV Partners |
+| **10 days** | Compliance platform MVP from ingestion to evaluation to audit |
 
-## Selected Experience
+---
 
-<table>
-  <tr>
-    <td width="34%" valign="top">
-      <strong>OnFinance AI</strong><br />
-      <sub>Full Stack Engineer · Remote · Nov 2024 - Present</sub>
-      <br /><br />
-      Built the frontend from scratch with Next.js, TypeScript, and Tailwind CSS. Optimized analytics APIs on 300k+ MongoDB records from 4.5-6 min to 15-30 sec.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Wokelo AI</strong><br />
-      <sub>Backend Engineering Intern · Remote · Feb 2024 - Jul 2024</sub>
-      <br /><br />
-      Built FastAPI + Python pipelines for structured financial data extraction from PDFs and improved LinkedIn profile validation accuracy from ~20% to 90%+.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Confidential U.S. Client</strong><br />
-      <sub>AI Systems / Full Stack Consultant · Remote</sub>
-      <br /><br />
-      Co-built a production-ready AI agent compliance validation platform MVP in 10 days with ingestion, reviewer workflows, and audit reporting.
-    </td>
-  </tr>
-</table>
+## Experience
 
-<br />
+### OnFinance AI
 
-## Featured Work
+**Full Stack Engineer** · Remote · Nov 2024 - Present
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>LexiKing</strong>
-      <br /><br />
-      AI-powered vocabulary tracker with spaced repetition and adaptive quiz generation.
-      <br /><br />
-      <code>TanStack Start</code> <code>TypeScript</code> <code>Convex</code> <code>Gemini Flash</code>
-      <br /><br />
-      <strong>Metric:</strong> ~60% less server-side code<br />
-      <strong>Live:</strong> <a href="https://lexiking.akshat-bhatia.com">lexiking.akshat-bhatia.com</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>AI Compliance Platform</strong>
-      <br /><br />
-      Real-time compliance validation system for AI agent conversations.
-      <br /><br />
-      <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>Qdrant</code> <code>Docker</code>
-      <br /><br />
-      <strong>Metric:</strong> Full MVP in 10 days<br />
-      <strong>Status:</strong> Confidential consulting project
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <strong>Supabase Open Source</strong>
-      <br /><br />
-      Contributed logo and dark-mode display fixes across Supabase documentation and the main website.
-      <br /><br />
-      <code>Open Source</code> <code>Documentation</code>
-      <br /><br />
-      <strong>Metric:</strong> Shipped to production ·
-      <a href="https://supabase.com">Supabase</a> ·
-      <a href="https://github.com/supabase/supabase">Repository</a>
-    </td>
-  </tr>
-</table>
+- Built the entire frontend from scratch with Next.js, TypeScript, and Tailwind CSS, delivering role-based dashboards and regulatory workflows that enabled compliance teams to process cases 30% faster.
+- Optimized analytics APIs on 300k+ MongoDB records via multi-stage aggregation pipelines, cutting dashboard response times from 4.5-6 min to 15-30 sec.
+- Migrated AI agent architecture to a Deep Agents framework with skill-based routing, reducing deployment time by 70% and consolidating 47 specialized tools into 8 reusable sub-agents.
 
-<br />
+### Wokelo AI
+
+**Backend Engineering Intern** · Remote · Feb 2024 - Jul 2024
+
+- Built FastAPI + Python pipelines that extracted structured financial data from PDFs using computer-vision and NLP models.
+- Improved LinkedIn profile validation accuracy from ~20% to 90%+ with rule-based and ML-assisted validation logic.
+- Fine-tuned Meta LLaMA-3 models for internal AI automation workflows and built DOCX and PPTX report generation pipelines from structured JSON inputs.
+
+### Confidential U.S. Client
+
+**AI Systems / Full Stack Consultant** · Remote
+
+- Co-built a production-ready AI agent compliance validation platform MVP in 10 days, covering regulation ingestion, reviewer workflows, real-time violation surfacing, and PDF audit reporting.
+- Architected a multi-stage regulation ingestion pipeline with Mistral OCR, GPT semantic chunking, knowledge-graph triple/ENM extraction, and Qdrant vector indexing.
+- Delivered React + TypeScript reviewer dashboards for flag triage, cited regulatory evidence, transcript replay, and audit export.
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [LexiKing](https://lexiking.akshat-bhatia.com) | AI-powered vocabulary tracker with spaced repetition and adaptive quiz generation. Replaced a traditional FastAPI + MongoDB + WebSocket stack with Convex's reactive database. **Metric:** ~60% less server-side code | ![TanStack](https://img.shields.io/badge/TanStack-050505.svg?style=flat-square&logo=reactquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-050505.svg?style=flat-square&logo=typescript&logoColor=white) |
+| AI Compliance Platform | Real-time compliance validation system for AI agent conversations. Detects regulatory violations turn-by-turn and surfaces corrective guidance before the agent's next reply. **Metric:** Full MVP in 10 days | ![FastAPI](https://img.shields.io/badge/FastAPI-050505.svg?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-050505.svg?style=flat-square&logo=react&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-050505.svg?style=flat-square&logo=docker&logoColor=white) |
+| [Supabase Open Source](https://github.com/supabase/supabase) | Contributed logo and dark-mode display fixes across Supabase documentation and the main website. **Metric:** Shipped to production | ![Open Source](https://img.shields.io/badge/Open%20Source-050505.svg?style=flat-square&logo=github&logoColor=white) ![Docs](https://img.shields.io/badge/Documentation-050505.svg?style=flat-square&logo=readthedocs&logoColor=white) |
+
+---
 
 ## Stack
 
-<div align="center">
+**Frontend**
 
-![React](https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-050505?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-050505?style=flat-square&logo=tailwindcss&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-050505?style=flat-square&logo=reactquery&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-050505?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-050505.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-050505.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-050505.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-050505.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-050505.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 
-</div>
+**Backend**
 
-<br />
+![FastAPI](https://img.shields.io/badge/FastAPI-050505.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-050505.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-050505.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-050505.svg?style=for-the-badge&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-050505.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Data & AI**
+
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-050505.svg?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-050505.svg?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-050505.svg?style=for-the-badge&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-050505.svg?style=for-the-badge&logoColor=white)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-050505.svg?style=for-the-badge&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-050505.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-050505.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-050505.svg?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-050505.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-050505.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## System Status
 
 ```txt
-SYSTEM STATUS
-
 [BUILDING] compliance platforms
-[DESIGNING] reviewer-grade interfaces
+[DESIGNING] reviewer-grade dashboards
 [EXPLORING] agentic workflows
 [SHIPPING] full-stack AI products
 ```
 
 <div align="center">
-
-<strong>Open to sharp teams, serious products, and useful AI systems.</strong>
-
-<br /><br />
-
-<a href="mailto:akuaka46@gmail.com">Email</a>
-&nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3OwJq6ayGU7LfpBvYUZh2sB9t9CbqYOC1BTmnt59XClhVkRt4hpNj887bzDC472QyiH-dHw4Ah">Book a Call</a>
-
+  <strong>Open to sharp teams, serious products, and useful AI systems.</strong>
+  <br /><br />
+  <a href="mailto:akuaka46@gmail.com">Email</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3OwJq6ayGU7LfpBvYUZh2sB9t9CbqYOC1BTmnt59XClhVkRt4hpNj887bzDC472QyiH-dHw4Ah">Book a Call</a>
 </div>
