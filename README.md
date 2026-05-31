@@ -1,12 +1,9 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,70:111111,100:d71921&text=Akshat%20Bhatia&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=16" alt="Akshat Bhatia" />
 
 <br />
 
-<a href="https://your-portfolio-url.com">Portfolio</a>
-&nbsp;&nbsp;/&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/akshat-bhatia-">LinkedIn</a>
 &nbsp;&nbsp;/&nbsp;&nbsp;
 <a href="https://github.com/Akshat-bhatia73">GitHub</a>
@@ -66,6 +63,7 @@ const akshat = {
 ## Experience
 
 ### OnFinance AI
+
 `Full Stack Engineer` · `Remote` · `Nov 2024 - Present`
 
 - Built the entire frontend from scratch with Next.js, TypeScript, and Tailwind CSS.
@@ -74,6 +72,7 @@ const akshat = {
 - Partnered with the executive team to support a $4.2M pre-Series A round from PeakXV Partners.
 
 ### Wokelo AI
+
 `Backend Engineering Intern` · `Remote` · `Feb 2024 - Jul 2024`
 
 - Built FastAPI + Python pipelines for financial data extraction from PDFs.
@@ -81,6 +80,7 @@ const akshat = {
 - Fine-tuned Meta LLaMA-3 models and built DOCX/PPTX report generation pipelines.
 
 ### Confidential U.S. Client
+
 `AI Systems / Full Stack Consultant` · `Remote`
 
 - Co-built a production-ready AI agent compliance validation platform MVP in 10 days.
@@ -93,24 +93,24 @@ const akshat = {
 
 ### LexiKing
 
-AI-powered vocabulary tracker with spaced repetition and adaptive quiz generation.
+AI-powered vocabulary tracker with spaced repetition and adaptive quiz generation.  
 Replaced a traditional FastAPI + MongoDB + WebSocket stack with Convex's reactive database.
 
 `TanStack Start` `TypeScript` `Convex` `Gemini Flash`
 
-**Metric:** `~60% less server-side code`
+**Metric:** `~60% less server-side code`  
 **Live:** https://lexiking.akshat-bhatia.com
 
 ---
 
 ### AI Compliance Platform
 
-Real-time compliance validation system for AI agent conversations.
+Real-time compliance validation system for AI agent conversations.  
 Detects regulatory violations turn-by-turn and surfaces corrective guidance before the agent's next reply.
 
 `FastAPI` `React` `TypeScript` `Qdrant` `WebSocket` `Docker`
 
-**Metric:** `Full MVP in 10 days`
+**Metric:** `Full MVP in 10 days`  
 **Status:** `Confidential consulting project`
 
 ---
@@ -121,7 +121,7 @@ Contributed logo and dark-mode display fixes across Supabase documentation and t
 
 `Open Source` `Documentation`
 
-**Metric:** `Shipped to production`
+**Metric:** `Shipped to production`  
 **Links:** [Supabase](https://supabase.com) · [Repository](https://github.com/supabase/supabase)
 
 <br />
@@ -177,18 +177,3 @@ SYSTEM STATUS
 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3OwJq6ayGU7LfpBvYUZh2sB9t9CbqYOC1BTmnt59XClhVkRt4hpNj887bzDC472QyiH-dHw4Ah">Book a Call</a>
 
 </div>
-```
-<!--
-**Akshat-bhatia73/Akshat-bhatia73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
